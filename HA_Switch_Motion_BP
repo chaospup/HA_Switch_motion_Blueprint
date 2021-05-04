@@ -1,5 +1,5 @@
 blueprint:
-  name: Motion-activated Switch
+  name: CP_Motion-activated Switch
   description: Turn on a switch when motion is detected.
   domain: automation
   input:
