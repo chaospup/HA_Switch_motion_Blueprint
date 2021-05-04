@@ -32,7 +32,7 @@ blueprint:
       selector:
         number:
           min: 0
-          max: 3600
+          max: 8000
           unit_of_measurement: seconds
 mode: restart
 max_exceeded: silent
